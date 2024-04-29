@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "dashboardba7cf07c": {}
+      },
+      "api": {
+        "dashboard": {}
       }
     }
   }
